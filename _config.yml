@@ -25,7 +25,8 @@ github_username:  tomcat88
 
 # Build settings
 markdown: kramdown
-theme: tale
+remote_theme: chesterhow/tale
+#theme: tale
 plugins:
   - jekyll-feed
   - jekyll-paginate
